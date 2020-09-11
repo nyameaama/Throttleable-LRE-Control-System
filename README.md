@@ -1,9 +1,9 @@
 # Throttleable-LRE-System-Transfer-Function
 
-<b><ul>Description of Closed Loop Control System for a Throttle-able LRE.</b></ul>
+<b><ul>Description of Open Loop Control System for a Throttle-able LRE.</b></ul>
 
 
-Engine System is based on Rocket Labs Electric Pump Feed Cycle [Rutherford Engine](https://en.wikipedia.org/wiki/Rocket_Lab_Rutherford) which uses a solar powered power powering an Electric Motor which in turns powers the Fuel and Oxidizer Pumps pushing propellant into the combustion chamber. 
+Engine System is based on Rocket Labs Electric Pump Feed Cycle [Rutherford Engine](https://en.wikipedia.org/wiki/Rocket_Lab_Rutherford) which uses a solar to power an Electric Motor which in turns powers the Fuel and Oxidizer Pumps pushing propellant into the combustion chamber. 
 
 
 
