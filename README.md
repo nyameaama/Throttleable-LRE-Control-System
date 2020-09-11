@@ -17,3 +17,8 @@ https://github.com/nyameaama/Throttleable-LRE-System-Transfer-Function/blob/mast
 <p align = "center">
 <img src = https://github.com/nyameaama/Throttleable-LRE-System-Transfer-Function/blob/master/assets/LRE%20Plant.png width = "700" height = "300"/>
 </p>
+
+<p align = "left">
+<img src = https://github.com/nyameaama/Throttleable-LRE-System-Transfer-Function/blob/master/assets/LRE%20Plant%20Data.png width = "150" height = "150"/>
+</p>
+
