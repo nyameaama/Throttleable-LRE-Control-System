@@ -13,10 +13,10 @@
 Startup
 
 <p align = "center">
-<img src = https://github.com/nyameaama/Throttleable-LRE-System-Transfer-Function/blob/master/assets/Engine%20Start.png width = "500" height = "400"/>
+<img src = https://github.com/nyameaama/Throttleable-LRE-System-Transfer-Function/blob/master/assets/Engine%20Start.png width = "600" height = "400"/>
 </p>
 
-By changing the propellant valves open margin this causes a reduction in the mass flow going into the main combustion chamber.  The LRE can be throttled by controlling the propellant combustion rate (usually measured in kg/s or lb/s). 
+The LRE can be throttled by controlling the propellant combustion rate (usually measured in kg/s or lb/s). By changing the propellant valves open margin this causes a reduction in the mass flow going into the main combustion chamber.  
 
 
 
