@@ -1,0 +1,28 @@
+Bernoulli Flow Calcs
+*Constant Units
+
+Flow 1:
+
+Diameter = (const) D1
+---
+Pressure = (const) P
+Velocity = (const) V
+
+
+-Therefore-
+
+Flow 2:
+
+Diameter = (const) D2 + 5
+---
+Pressure = (x)
+Velocity = (y)
+
+Finding the Velocity
+
+y = V * pow2(D1) / pow2(D2) 
+
+Finding The Pressure
+
+
+
