@@ -1,0 +1,18 @@
+
+Input :
+
+- Entry Flow Rate
+- Valve Response time
+- Desired output flow Rate
+
+Output :
+
+Signal (Open, Close) + time (Duration of signal process)
+
+Requirements-
+
+Graph Data
+
+HIGH PERFORMANCE SOLENOID DRIVERS
+
+https://www.hydraulicspneumatics.com/technologies/cylinders-actuators/article/21887670/whats-the-best-way-to-drive-a-solenoid
