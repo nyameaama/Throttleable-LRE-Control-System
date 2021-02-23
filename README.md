@@ -1,4 +1,4 @@
-# Throttleable-LRE-System-Transfer-Function
+# Throttleable-LRE-Control-System
 
 <b><ul>Description of Open Loop Control System for a Throttle-able LRE.</b></ul>
 
